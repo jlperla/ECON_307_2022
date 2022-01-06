@@ -71,6 +71,8 @@ This material is best learned by doing exercises.  When appropriate, we will rev
 
 Assume that all grades will be curved (weakly up for exams).
 
+Assignments are to be submitted electronically in whatever method the TA establishes.
+
 **Missed Exam Policy:** You are responsible for ensuring that you take these exams as scheduled; no make-up exams will be given.
 - Missing a midterm for ANY acceptable reason will result in its weight being automatically transferred to the final exam.
 - The final exam date will be announced by Student Services about half-way through the term.
