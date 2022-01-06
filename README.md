@@ -8,6 +8,7 @@ See [here](syllabus.md) for more details
 ## Problem Sets and Exams
 
 1. **Due Midnight PST on January 20th** - [Problem Set 0](/problem_sets/problem_set_0.pdf)
+2. **February 18th** - Midterm Exam in class
 
 ## Lectures
 1. **January 10th** - [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf)
@@ -16,6 +17,39 @@ See [here](syllabus.md) for more details
 4. **January 17th** - More [Asset Pricing and Difference Equations](/lecture_notes/asset_pricing_difference_equations.pdf)
 5. **January 19th** - 
 6. **January 21th** - PS0 Review in class
+7. **January 24th** - 
+8. **January 26th** - 
+9. **January 28th** - 
+10. **January 31st** - 
+11. **February 2nd** - 
+12. **February 4th** - 
+13. **February 7th** - 
+14. **February 9th** - 
+15. **February 11th** - 
+16. **February 14th** - 
+17. **February 16th** - Midterm Review Session
+18. **February 18th** - Midterm Exam In Class
+19. **February 21st** - Break
+20. **February 23rd** - Break
+21. **February 25th** - Break
+22. **February 28th** - 
+23. **March 2nd** - 
+24. **March 4th** - 
+25. **March 7th** - 
+26. **March 9th** - 
+27. **March 11th** - 
+28. **March 14th** - 
+29. **March 16th** - 
+30. **March 18th** - 
+31. **March 21st** - 
+32. **March 23rd** - 
+33. **March 25th** - 
+34. **March 28th** - 
+35. **March 30th** - 
+36. **April 1st** - 
+37. **April 4th** - 
+38. **April 6th** - 
+39. **April 8th** - 
 <!--
 6. **January 15th** - Finish [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf), start [Asset Pricing and Difference Equations](/lecture_notes/asset_pricing_difference_equations.pdf)
 7. **January 18th** - Continue [Asset Pricing and Difference Equations](/lecture_notes/asset_pricing_difference_equations.pdf)
