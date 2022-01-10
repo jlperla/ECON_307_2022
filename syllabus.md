@@ -147,18 +147,6 @@ You are also welcome to speak to me regarding your issue; I’m here to support 
 
 ## Policies
 
-
-**Academic Integrity Module:**
-On the Canvas site you will find a module on Academic Integrity. You must read through
-its components and complete the 10-question quiz. You may take the quiz as many times
-as needed, but must obtain 100% on the quiz in order to complete the module. Failure to complete the
-module will result in a grade of zero in the course.
-
-Please note that the last question in the quiz is actually your agreement with the VSE and
-the course’s policies on academic integrity. If you do not agree with them, please do not
-check the “I agree” box and drop the course. More information on academic integrity can
-be found at the end of the syllabus.
-
 **Academic Integrity**
 It is the policy of the VSE to report all violations of UBC’s standards for academic
 honesty to the office of the Dean of Arts. A detailed description of academic integrity,

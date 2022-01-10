@@ -1,6 +1,6 @@
 # Course materials for ECON307 Winter 2022
 - Optionally, select `Watch` at the top of this repository to be alerted to all file changes
-- Not required, but consider either getting a GitHub ID and installing the [GitHub Desktop](https://desktop.github.com/).  After installation, at top of this page choose "Code" then "Open in Desktop"
+- Not required, but consider either getting a GitHub ID and installing the [GitHub Desktop](https://desktop.github.com/).  After installation, at top of this page choose "Code" then "Open in Desktop".  Alternatively, [Git](https://git-scm.com/downloads) directly or [VS Code](https://docs.microsoft.com/en-us/azure/developer/javascript/how-to/with-visual-studio-code/clone-github-repository?tabs=create-repo-command-palette%2Cinitialize-repo-activity-bar%2Ccreate-branch-command-palette%2Ccommit-changes-command-palette%2Cpush-command-palette)
 
 ## Syllabus
 See [here](syllabus.md) for more details
