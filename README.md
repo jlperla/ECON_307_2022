@@ -14,8 +14,8 @@ See [here](syllabus.md) for more details
 1. **January 10th** - [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf)
 2. **January 12th** - [Math Review](/lecture_notes/math_review.pdf)
 3. **January 14th** - Finish [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf), start [Asset Pricing and Difference Equations](/lecture_notes/asset_pricing_difference_equations.pdf)
-4. **January 17th** - More [Asset Pricing and Difference Equations](/lecture_notes/asset_pricing_difference_equations.pdf)
-5. **January 19th** - 
+4. **January 17th** - More [Asset Pricing and Difference Equations](/lecture_notes/asset_pricing_difference_equations.pdf) and potentially start [Permanent Income Model](/lecture_notes/permanent_income.pdf)
+5. **January 19th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
 6. **January 21th** - PS0 Review in class
 7. **January 24th** - 
 8. **January 26th** - 
