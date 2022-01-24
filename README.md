@@ -8,7 +8,8 @@ See [here](syllabus.md) for more details
 ## Problem Sets and Exams
 
 1. **Due Midnight PST on January 20th** - [Problem Set 0](/problem_sets/problem_set_0.pdf)
-2. **February 18th** - Midterm Exam in class
+2. **Due Midnight PST on January 30th** - [Problem Set 1](/problem_sets/problem_set_1.pdf)
+3. **February 18th** - Midterm Exam in class
 
 ## Lectures
 1. **January 10th** - [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf)
@@ -17,9 +18,9 @@ See [here](syllabus.md) for more details
 4. **January 17th** - More [Asset Pricing and Difference Equations](/lecture_notes/asset_pricing_difference_equations.pdf) and potentially start [Permanent Income Model](/lecture_notes/permanent_income.pdf)
 5. **January 19th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
 6. **January 21th** - PS0 Review in class
-7. **January 24th** - 
-8. **January 26th** - 
-9. **January 28th** - 
+7. **January 24th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
+8. **January 26th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf) 
+9. **January 28th** - Review [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf) and start [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
 10. **January 31st** - 
 11. **February 2nd** - 
 12. **February 4th** - 
