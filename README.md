@@ -20,11 +20,11 @@ See [here](syllabus.md) for more details
 6. **January 21th** - PS0 Review in class
 7. **January 24th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
 8. **January 26th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf) 
-9. **January 28th** - Review [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf) and start [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
-10. **January 31st** - 
-11. **February 2nd** - 
-12. **February 4th** - 
-13. **February 7th** - 
+9. **January 28th** - Review last part of [Permanent Income Model](/lecture_notes/permanent_income.pdf) and start [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
+10. **January 31st** - PS1 Review in class
+11. **February 2nd** - [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
+12. **February 4th** - [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
+13. **February 7th** - **BACK IN PERSON**
 14. **February 9th** - 
 15. **February 11th** - 
 16. **February 14th** - 
