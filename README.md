@@ -10,7 +10,8 @@ See [here](syllabus.md) for more details
 1. **Due Midnight PST on January 20th** - [Problem Set 0](/problem_sets/problem_set_0.pdf)
 2. **Due Midnight PST on January 30th** - [Problem Set 1](/problem_sets/problem_set_1.pdf)
 3. **Due Midnight PST on February 8th** - [Problem Set 2](/problem_sets/problem_set_2.pdf)
-4. **February 18th** - Midterm Exam in class
+3. **Due Midnight PST on February 15th** - PS3 to be posted.
+5. **February 18th** - Midterm Exam in class
 
 ## Lectures
 1. **January 10th** - [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf)
