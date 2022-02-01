@@ -9,7 +9,8 @@ See [here](syllabus.md) for more details
 
 1. **Due Midnight PST on January 20th** - [Problem Set 0](/problem_sets/problem_set_0.pdf)
 2. **Due Midnight PST on January 30th** - [Problem Set 1](/problem_sets/problem_set_1.pdf)
-3. **February 18th** - Midterm Exam in class
+3. **Due Midnight PST on February 8th** - [Problem Set 2](/problem_sets/problem_set_2.pdf)
+4. **February 18th** - Midterm Exam in class
 
 ## Lectures
 1. **January 10th** - [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf)
@@ -24,11 +25,11 @@ See [here](syllabus.md) for more details
 10. **January 31st** - PS1 Review in class
 11. **February 2nd** - [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
 12. **February 4th** - [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
-13. **February 7th** - **BACK IN PERSON**
-14. **February 9th** - 
+13. **February 7th** - **BACK IN PERSON** [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
+14. **February 9th** - PS2 Review in class
 15. **February 11th** - 
 16. **February 14th** - 
-17. **February 16th** - Midterm Review Session
+17. **February 16th** - PS3 and Midterm Review Session
 18. **February 18th** - Midterm Exam In Class
 19. **February 21st** - Break
 20. **February 23rd** - Break
@@ -52,18 +53,6 @@ See [here](syllabus.md) for more details
 38. **April 6th** - 
 39. **April 8th** - 
 <!--
-6. **January 15th** - Finish [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf), start [Asset Pricing and Difference Equations](/lecture_notes/asset_pricing_difference_equations.pdf)
-7. **January 18th** - Continue [Asset Pricing and Difference Equations](/lecture_notes/asset_pricing_difference_equations.pdf)
-8. **January 20th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
-9. **January 22nd** - PS0 Review
-10. **January 25th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
-11. **January 27th** - [Permanent Income Model](/lecture_notes/permanent_income.pdf)
-12. **January 29th** - Finish [Permanent Income Model](/lecture_notes/permanent_income.pdf) and [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
-13. **February 1st** - [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
-14. **February 3rd** - PS1 Review
-15. **February 5th** - [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
-16. **February 8th** - [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
-17. **February 10th** - PS2 Review
 18. **February 12th** - **Midterm #1**
 19. **February 15th** - **BREAK**
 20. **February 17th** - **BREAK**
