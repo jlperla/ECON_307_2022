@@ -12,7 +12,7 @@ See [here](syllabus.md) for more details
 3. **Due Midnight PST on February 8th** - [Problem Set 2](/problem_sets/problem_set_2.pdf)
 4. **Due Midnight PST on February 15th** - [Problem Set 3](/problem_sets/problem_set_3.pdf)
 5. [Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf)
-6. **February 18th** - Midterm Exam in class
+6. **February 18th** - Midterm Exam 12:15-2:15 in IONA 167
 
 ## Lectures
 1. **January 10th** - [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf)
@@ -32,7 +32,7 @@ See [here](syllabus.md) for more details
 15. **February 11th** - PS2 Review in class
 16. **February 14th** - 
 17. **February 16th** - PS3 and Midterm Practice Problems ([Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf)) Review Session
-18. **February 18th** - Midterm Exam In Class
+18. **February 18th** - Midterm Exam 12:15-2:15 in IONA 167
 19. **February 21st** - Break
 20. **February 23rd** - Break
 21. **February 25th** - Break
