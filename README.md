@@ -10,8 +10,9 @@ See [here](syllabus.md) for more details
 1. **Due Midnight PST on January 20th** - [Problem Set 0](/problem_sets/problem_set_0.pdf)
 2. **Due Midnight PST on January 30th** - [Problem Set 1](/problem_sets/problem_set_1.pdf)
 3. **Due Midnight PST on February 8th** - [Problem Set 2](/problem_sets/problem_set_2.pdf)
-3. **Due Midnight PST on February 15th** - PS3 to be posted.
-5. **February 18th** - Midterm Exam in class
+4. **Due Midnight PST on February 15th** - [Problem Set 3](/problem_sets/problem_set_3.pdf)
+5. [Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf)
+6. **February 18th** - Midterm Exam in class
 
 ## Lectures
 1. **January 10th** - [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf)
@@ -30,7 +31,7 @@ See [here](syllabus.md) for more details
 14. **February 9th** -  [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
 15. **February 11th** - PS2 Review in class
 16. **February 14th** - 
-17. **February 16th** - PS3 and Midterm Review Session
+17. **February 16th** - PS3 and Midterm Practice Problems ([Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf)) Review Session
 18. **February 18th** - Midterm Exam In Class
 19. **February 21st** - Break
 20. **February 23rd** - Break
