@@ -27,15 +27,15 @@ See [here](syllabus.md) for more details
 11. **February 2nd** - [Markov Chains and Unemployment](/lecture_notes/markov_chains_unemployment.pdf)
 12. **February 4th** - [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
 13. **February 7th** - **BACK IN PERSON** [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
-14. **February 9th** - PS2 Review in class
-15. **February 11th** - 
+14. **February 9th** -  [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
+15. **February 11th** - PS2 Review in class
 16. **February 14th** - 
 17. **February 16th** - PS3 and Midterm Review Session
 18. **February 18th** - Midterm Exam In Class
 19. **February 21st** - Break
 20. **February 23rd** - Break
 21. **February 25th** - Break
-22. **February 28th** - 
+22. **February 28th** - [Stochastic Permanent Income Model](/lecture_notes/stochastic_permanent_income.pdf)
 23. **March 2nd** - 
 24. **March 4th** - 
 25. **March 7th** - 
