@@ -37,8 +37,8 @@ See [here](syllabus.md) for more details
 20. **February 23rd** - Break
 21. **February 25th** - Break
 22. **February 28th** - [Stochastic Permanent Income Model](/lecture_notes/stochastic_permanent_income.pdf)
-23. **March 2nd** - 
-24. **March 4th** - 
+23. **March 2nd** - [Stochastic Permanent Income Model](/lecture_notes/stochastic_permanent_income.pdf)
+24. **March 4th** - [Incomplete Markets](/lecture_notes/no_borrowing_dynamic_programming.pdf)
 25. **March 7th** - 
 26. **March 9th** - 
 27. **March 11th** - 
@@ -55,13 +55,6 @@ See [here](syllabus.md) for more details
 38. **April 6th** - 
 39. **April 8th** - 
 <!--
-18. **February 12th** - **Midterm #1**
-19. **February 15th** - **BREAK**
-20. **February 17th** - **BREAK**
-21. **February 19th** - **BREAK**
-22. **February 22nd** - [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
-23. **February 24th** - [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
-24. **February 26th** - Midterm Solution Review
 25. **March 1st** - [Stochastic Permanent Income Model](/lecture_notes/stochastic_permanent_income.pdf)
 26. **March 3rd** - [Stochastic Permanent Income Model](/lecture_notes/stochastic_permanent_income.pdf)
 27. **March 5th** - [Incomplete Markets](/lecture_notes/no_borrowing_dynamic_programming.pdf)
