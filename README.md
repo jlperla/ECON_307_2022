@@ -13,6 +13,7 @@ See [here](syllabus.md) for more details
 4. **Due Midnight PST on February 15th** - [Problem Set 3](/problem_sets/problem_set_3.pdf)
 5. [Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf)
 6. **February 18th** - Midterm Exam 12:15-2:15 in IONA 167
+7. **Due Midnight PST on March 13th** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
 
 ## Lectures
 1. **January 10th** - [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf)
@@ -30,7 +31,7 @@ See [here](syllabus.md) for more details
 13. **February 7th** - **BACK IN PERSON** [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
 14. **February 9th** -  [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
 15. **February 11th** - PS2 Review in class
-16. **February 14th** - 
+16. **February 14th** - [Stochastic Asset Pricing](/lecture_notes/stochastic_asset_pricing.pdf)
 17. **February 16th** - PS3 and Midterm Practice Problems ([Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf)) Review Session
 18. **February 18th** - Midterm Exam 12:15-2:15 in IONA 167
 19. **February 21st** - Break
@@ -38,11 +39,11 @@ See [here](syllabus.md) for more details
 21. **February 25th** - Break
 22. **February 28th** - [Stochastic Permanent Income Model](/lecture_notes/stochastic_permanent_income.pdf)
 23. **March 2nd** - [Stochastic Permanent Income Model](/lecture_notes/stochastic_permanent_income.pdf)
-24. **March 4th** - [Incomplete Markets](/lecture_notes/no_borrowing_dynamic_programming.pdf)
-25. **March 7th** - 
-26. **March 9th** - 
-27. **March 11th** - 
-28. **March 14th** - 
+24. **March 4th** - Finish [Stochastic Permanent Income Model](/lecture_notes/stochastic_permanent_income.pdf) and start [Incomplete Markets](/lecture_notes/no_borrowing_dynamic_programming.pdf)
+25. **March 7th** - [Incomplete Markets](/lecture_notes/no_borrowing_dynamic_programming.pdf)
+26. **March 9th** - Finish [Incomplete Markets](/lecture_notes/no_borrowing_dynamic_programming.pdf) and do [Search](/lecture_notes/search.pdf)
+27. **March 11th** - [Search](/lecture_notes/search.pdf)
+28. **March 14th** - PS4 Review in class
 29. **March 16th** - 
 30. **March 18th** - 
 31. **March 21st** - 
@@ -55,10 +56,6 @@ See [here](syllabus.md) for more details
 38. **April 6th** - 
 39. **April 8th** - 
 <!--
-25. **March 1st** - [Stochastic Permanent Income Model](/lecture_notes/stochastic_permanent_income.pdf)
-26. **March 3rd** - [Stochastic Permanent Income Model](/lecture_notes/stochastic_permanent_income.pdf)
-27. **March 5th** - [Incomplete Markets](/lecture_notes/no_borrowing_dynamic_programming.pdf)
-28. **March 8th** - [Incomplete Markets](/lecture_notes/no_borrowing_dynamic_programming.pdf)
 29. **March 10th** - PS3 Review
 30. **March 12th** - [Incomplete Markets](/lecture_notes/no_borrowing_dynamic_programming.pdf) and start [Search](/lecture_notes/search.pdf)
 31. **March 15th** - [Search](/lecture_notes/search.pdf)
