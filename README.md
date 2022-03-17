@@ -44,10 +44,10 @@ See [here](syllabus.md) for more details
 26. **March 9th** - Finish [Incomplete Markets](/lecture_notes/no_borrowing_dynamic_programming.pdf) and do [Search](/lecture_notes/search.pdf)
 27. **March 11th** - [Search](/lecture_notes/search.pdf)
 28. **March 14th** - PS4 Review in class
-29. **March 16th** - 
-30. **March 18th** - 
-31. **March 21st** - 
-32. **March 23rd** - 
+29. **March 16th** - [General Equilibrium](/lecture_notes/general_equilibrium.pdf)
+30. **March 18th** - [General Equilibrium](/lecture_notes/general_equilibrium.pdf)
+31. **March 21st** - [Interest Rates](/lecture_notes/interest_rates.pdf)
+32. **March 23rd** - [Interest Rates](/lecture_notes/interest_rates.pdf)
 33. **March 25th** - 
 34. **March 28th** - 
 35. **March 30th** - 
