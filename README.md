@@ -14,6 +14,7 @@ See [here](syllabus.md) for more details
 5. [Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf)
 6. **February 18th** - Midterm Exam 12:15-2:15 in IONA 167
 7. **Due Midnight PST on March 13th** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
+8. **Due Midnight PST on March 27th** - [Problem Set 5](/problem_sets/problem_set_5.pdf)
 
 ## Lectures
 1. **January 10th** - [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf)
@@ -46,14 +47,14 @@ See [here](syllabus.md) for more details
 28. **March 14th** - PS4 Review in class
 29. **March 16th** - [General Equilibrium](/lecture_notes/general_equilibrium.pdf)
 30. **March 18th** - [General Equilibrium](/lecture_notes/general_equilibrium.pdf)
-31. **March 21st** - [Interest Rates](/lecture_notes/interest_rates.pdf)
+31. **March 21st** - [General Equilibrium](/lecture_notes/general_equilibrium.pdf) and [Interest Rates](/lecture_notes/interest_rates.pdf)
 32. **March 23rd** - [Interest Rates](/lecture_notes/interest_rates.pdf)
-33. **March 25th** - 
-34. **March 28th** - 
-35. **March 30th** - 
-36. **April 1st** - 
-37. **April 4th** - 
-38. **April 6th** - 
+33. **March 25th** -  [Interest Rates](/lecture_notes/interest_rates.pdf)
+34. **March 28th** - PS5 Review in class
+35. **March 30th** - [Growth](/lecture_notes/growth.pdf)
+36. **April 1st** -  [Growth](/lecture_notes/growth.pdf)
+37. **April 4th** -  [Growth](/lecture_notes/growth.pdf)
+38. **April 6th** -  [Growth and Fiscal Policy](/lecture_notes/growth.pdf)
 39. **April 8th** - 
 <!--
 29. **March 10th** - PS3 Review
