@@ -15,6 +15,7 @@ See [here](syllabus.md) for more details
 6. **February 18th** - Midterm Exam 12:15-2:15 in IONA 167
 7. **Due Midnight PST on March 13th** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
 8. **Due Midnight PST on March 27th** - [Problem Set 5](/problem_sets/problem_set_5.pdf)
+9. **Due Midnight PST on April 7th** - [Problem Set 6](/problem_sets/problem_set_6.pdf).  Grading is pass/fail on this one.
 
 ## Lectures
 1. **January 10th** - [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf)
@@ -53,9 +54,9 @@ See [here](syllabus.md) for more details
 34. **March 28th** - PS5 Review in class
 35. **March 30th** - [Growth](/lecture_notes/growth.pdf)
 36. **April 1st** -  [Growth](/lecture_notes/growth.pdf)
-37. **April 4th** -  [Growth](/lecture_notes/growth.pdf)
-38. **April 6th** -  [Growth and Fiscal Policy](/lecture_notes/growth.pdf)
-39. **April 8th** - 
+37. **April 4th** -  [Growth](/lecture_notes/growth.pdf) and [Growth and Fiscal Policy](/lecture_notes/growth_fiscal_policy.pdf)
+38. **April 6th** -  [Growth and Fiscal Policy](/lecture_notes/growth_fiscal_policy.pdf)
+39. **April 8th** - [Growth and Fiscal Policy](/lecture_notes/growth_fiscal_policy.pdf) and partial review of PS6
 <!--
 29. **March 10th** - PS3 Review
 30. **March 12th** - [Incomplete Markets](/lecture_notes/no_borrowing_dynamic_programming.pdf) and start [Search](/lecture_notes/search.pdf)
