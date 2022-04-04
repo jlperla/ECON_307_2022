@@ -16,6 +16,7 @@ See [here](syllabus.md) for more details
 7. **Due Midnight PST on March 13th** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
 8. **Due Midnight PST on March 27th** - [Problem Set 5](/problem_sets/problem_set_5.pdf)
 9. **Due Midnight PST on April 7th** - [Problem Set 6](/problem_sets/problem_set_6.pdf).  Grading is pass/fail on this one.
+10. [Final Practice Problems](/problem_sets/final_practice_problems.pdf)
 
 ## Lectures
 1. **January 10th** - [Introduction to Modern Macro](/lecture_notes/intro_to_modern_macro.pdf)
